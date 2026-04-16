@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Deepanshu
 
-<!--
-**MERNForge/MERNForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN)
+💡 I build scalable web apps & real-world systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project
+
+### 🧑‍💼 HRMS SaaS Platform
+
+* Employee Management
+* Attendance & Leave System
+* Role-Based Dashboard
+* Admin Analytics
+
+---
+
+## 🛠 Tech Stack
+
+React • Node • Express • MongoDB • Tailwind
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MERNForge\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MERNForge\&theme=tokyonight)
+
+---
+
+## 🚀 Currently Working On
+
+* HRMS UI/UX Improvements
+* Backend Optimization
+* Learning System Design
+
+---
+
+## ⚡ Developer Mindset
+
+> "I don't just write code, I build systems."
