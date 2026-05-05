@@ -31,22 +31,20 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const deepanshu = {
-  name        : "Deepanshu Sharma",
-  alias       : "MERNForge",
-  role        : "Full Stack Developer (MERN)",
-  location    : "Chandigarh, India 🇮🇳",
-  passion     : "Building scalable, real-world web applications",
-  currentFocus: [
-    "HRMS SaaS Platform",
-    "Backend Architecture & Optimization",
-    "System Design Principles"
-  ],
-  philosophy  : "I don't just write code — I build systems.",
-  contact     : "sharmadeepanshu0003@gmail.com"
-};
-```
+<div align="center">
+
+| 🏷️ | Details |
+|-----|---------|
+| 👤 **Name** | Deepanshu Sharma |
+| 🎭 **Alias** | MERNForge |
+| 💼 **Role** | Full Stack Developer (MERN) |
+| 📍 **Location** | Chandigarh, India 🇮🇳 |
+| ❤️ **Passion** | Building scalable, real-world web applications |
+| 📧 **Contact** | sharmadeepanshu0003@gmail.com |
+
+</div>
+
+<div align="center">
 
 ---
 
